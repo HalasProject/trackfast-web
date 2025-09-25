@@ -1,0 +1,156 @@
+{
+  "hero": {
+    "beta": "Beta 1.0 Disponible Maintenant",
+    "titleLine1": "Suivez vos ",
+    "titleHighlight": "véhicules",
+    "titleLine2": "partout, à tout moment !",
+    "description": "Système de suivi GPS facile à utiliser, vous offrant un contrôle total sur vos voitures, motos ou flotte. Suivez la localisation, la vitesse et l’historique des trajets avec des outils intuitifs.",
+    "cta": "Prendre rendez-vous",
+    "ctaNote": "Aucune carte bancaire requise - essai gratuit de 14 jours."
+  },
+  "features": {
+    "main_features": "Fonctionnalités principales",
+    "no_coding": "Aucune compétence en codage requise",
+    "description": "Découvrez notre système de suivi GPS avec suivi en temps réel, géorepérage, alertes et historique des trajets.",
+    "real_time_tracking": "Suivi en temps réel des véhicules, motos et biens avec localisation précise.",
+    "try_now": "Essayez maintenant",
+    "dashboard_title": "Composants du tableau de bord",
+    "dashboard_desc": "Libérez votre productivité avec des tableaux de bord personnalisables pour suivre et gérer votre flotte en temps réel.",
+    "learn_more": "En savoir plus",
+    "ui_title": "Composants UI",
+    "ui_desc": "Composants UI puissants et intuitifs conçus pour le suivi GPS, les alertes et les rapports.",
+    "drag_drop_title": "Interface glisser-déposer",
+    "drag_drop_desc": "Configurez et gérez facilement les tableaux de bord GPS et les éléments grâce à notre interface glisser-déposer."
+  },
+  "key_features": {
+    "title": "Fonctionnalités clés",
+    "easy_to_use": "Facile à utiliser",
+    "and_powerful": "et puissant constructeur de pages, votre accès à",
+    "intuitive_tools": "des outils intuitifs",
+    "and": "et",
+    "expansive_customization": "des options de personnalisation étendues",
+    "options": "qui transforment la façon dont vous",
+    "transform_how_you_build": "construisez vos tableaux de bord de suivi de flotte",
+    "features": [
+      {
+        "title": "Suivi en temps réel",
+        "alt": "Icône de suivi GPS en temps réel"
+      },
+      {
+        "title": "Historique des trajets",
+        "alt": "Icône d'historique des trajets"
+      },
+      {
+        "title": "Alertes et notifications",
+        "alt": "Icône d'alertes et notifications"
+      },
+      {
+        "title": "Géorepérage",
+        "alt": "Icône de géorepérage"
+      },
+      {
+        "title": "Gestion des comptes et des appareils",
+        "alt": "Icône des composants du tableau de bord"
+      },
+      {
+        "title": "Surveillance du comportement des conducteurs",
+        "alt": "Icône de personnalisation de l'interface utilisateur"
+      },
+      {
+        "title": "Assistance par e-mail et SMS",
+        "alt": "Icône de personnalisation de l'interface utilisateur"
+      }
+    ],
+    "view_all": "Voir toutes les fonctionnalités"
+  },
+  "pricing": {
+    "title": "Tarification",
+    "simple": "Simple",
+    "scalable": "évolutive",
+    "pricing": "tarification.",
+    "no_hidden_fees": "Aucuns frais supplémentaires. Pas de frais cachés.",
+    "per_month": "mois",
+    "get_started": "Commencer",
+    "prices_exclude_tax": "Les prix n'incluent pas les taxes applicables.",
+    "tiers": [
+      {
+        "offer": "Meilleur rapport qualité-prix",
+        "name": "Starter",
+        "description": "Parfait pour les petites flottes démarrant avec le suivi GPS.",
+        "details": "Inclut les fonctionnalités de suivi de base",
+        "features": [
+          "Suivi en temps réel",
+          "Historique des trajets",
+          "Alertes et notifications"
+        ]
+      },
+      {
+        "offer": "Le plus populaire",
+        "name": "Pro",
+        "description": "Fonctionnalités avancées pour les flottes en croissance.",
+        "details": "Inclut toutes les fonctionnalités du Starter plus le géorepérage",
+        "features": [
+          "Suivi en temps réel",
+          "Historique des trajets",
+          "Alertes et notifications",
+          "Géorepérage"
+        ]
+      },
+      {
+        "offer": "Entreprise",
+        "name": "Entreprise",
+        "description": "Solution complète pour les grandes flottes.",
+        "details": "Inclut toutes les fonctionnalités du Pro plus la personnalisation du tableau de bord",
+        "features": [
+          "Suivi en temps réel",
+          "Historique des trajets",
+          "Alertes et notifications",
+          "Géorepérage",
+          "Tableaux de bord personnalisés"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "clients_feedback": "Avis des clients",
+    "dont_just_take_our_words": "Ne vous fiez pas",
+    "highlight_text": "uniquement à nos mots",
+    "star": "étoile"
+  },
+  "faq": {
+    "heading": "Foire aux questions",
+    "subheading": "Questions fréquemment posées",
+    "description": "Nous aidons les utilisateurs à suivre leurs véhicules facilement et en toute sécurité avec notre système GPS.",
+    "contactButton": "Vous avez encore une question ?",
+    "faqs": [
+      {
+        "question": "Comment installer le traceur GPS sur ma moto ?",
+        "answer": "L'installation est simple et rapide. Il suffit de placer le traceur dans un emplacement sécurisé sur la moto et de le connecter à l'alimentation si nécessaire."
+      },
+      {
+        "question": "Puis-je suivre plusieurs motos depuis la même application ?",
+        "answer": "Oui, notre plateforme vous permet de gérer et suivre plusieurs motos ou véhicules en temps réel depuis un tableau de bord unique et intuitif."
+      },
+      {
+        "question": "Que se passe-t-il si ma moto est volée ?",
+        "answer": "En cas de mouvement suspect ou de vol, vous recevez une alerte instantanée sur votre téléphone ou par e-mail."
+      },
+      {
+        "question": "Le GPS fonctionne-t-il partout en Algérie ?",
+        "answer": "Oui, nos traceurs utilisent un réseau GSM/GPS fiable couvrant tout le territoire algérien, même dans les zones éloignées."
+      },
+      {
+        "question": "Puis-je créer des zones de géorepérage pour mes véhicules ?",
+        "answer": "Absolument. Vous pouvez définir des zones autorisées ou interdites et recevoir des notifications en cas de sortie."
+      }
+    ]
+  },
+  "navs": {
+    "overview": "Présentation",
+    "features": "Fonctionnalités",
+    "howItWorks": "Comment ça marche",
+    "pricing": "Tarification",
+    "reviews": "Avis",
+    "tutoriel": "Tutoriel"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "hero": {
+    "beta": "Beta 1.0 Available Now",
+    "titleLine1": "Track your ",
+    "titleHighlight": "vehicles",
+    "titleLine2": "anywhere, anytime!",
+    "description": "Easy-to-use GPS tracking system, giving you full control over your cars, motorcycles, or fleet. Monitor location, speed, and route history with intuitive tools.",
+    "cta": "Get started",
+    "ctaNote": "No credit cards required - 14 days free trial."
+  },
+  "features": {
+    "main_features": "Main Features",
+    "no_coding": "No coding skills required",
+    "description": "Experience our GPS tracking system with real-time monitoring, geofencing, alerts, and route history.",
+    "real_time_tracking": "Real-time tracking for vehicles, motorcycles, and assets with accurate location data.",
+    "try_now": "Try it now",
+    "dashboard_title": "Dashboard Components",
+    "dashboard_desc": "Unlock productivity with customizable dashboards for tracking and managing your fleet in real-time.",
+    "learn_more": "Learn more",
+    "ui_title": "UI Components",
+    "ui_desc": "Powerful and intuitive UI components designed for GPS tracking, alerts, and reporting.",
+    "drag_drop_title": "Drag-and-Drop Interface",
+    "drag_drop_desc": "Easily configure and manage GPS tracking dashboards and elements with our drag-and-drop interface."
+  },
+    "key_features": {
+    "title": "Key Features",
+    "easy_to_use": "Easy-to-use",
+    "and_powerful": "and powerful page builder, your gateway to",
+    "intuitive_tools": "intuitive tools",
+    "and": "and",
+    "expansive_customization": "expansive customization",
+    "options": "options that transform how you",
+    "transform_how_you_build": "build your fleet tracking dashboards",
+    "features": [
+      {
+        "title": "Real-time Tracking",
+        "alt": "Real-time GPS tracking icon"
+      },
+      {
+        "title": "Route History",
+        "alt": "Route history icon"
+      },
+      {
+        "title": "Alerts & Notifications",
+        "alt": "Alerts and notifications icon"
+      },
+      {
+        "title": "Geofencing",
+        "alt": "Geofencing icon"
+      },
+      {
+        "title": "Account and device management",
+        "alt": "Dashboard components icon"
+      },
+      {
+        "title": "Email and SMS support",
+        "alt": "UI customization icon"
+      },
+       {
+        "title": "Driver behaviour monitoring",
+        "alt": "UI customization icon"
+      }
+    ],
+    "view_all": "View all features"
+  },
+    "pricing": {
+    "title": "Pricing",
+    "simple": "Simple",
+    "scalable": "scalable",
+    "pricing": "pricing.",
+    "no_hidden_fees": "No extra charges. No hidden fees.",
+    "per_month": "mo",
+    "get_started": "Get started",
+    "prices_exclude_tax": "Prices exclude any applicable taxes.",
+    "tiers": [
+      {
+        "offer": "Best value",
+        "name": "Starter",
+        "description": "Perfect for small fleets starting with GPS tracking.",
+        "details": "Includes basic tracking features",
+        "features": ["Real-time tracking", "Route history", "Alerts & notifications"]
+      },
+      {
+        "offer": "Most popular",
+        "name": "Pro",
+        "description": "Advanced features for growing fleets.",
+        "details": "Includes all Starter features plus geofencing",
+        "features": ["Real-time tracking", "Route history", "Alerts & notifications", "Geofencing"]
+      },
+      {
+        "offer": "Enterprise",
+        "name": "Enterprise",
+        "description": "Full-featured solution for large fleets.",
+        "details": "Includes all Pro features plus dashboard customization",
+        "features": ["Real-time tracking", "Route history", "Alerts & notifications", "Geofencing", "Custom dashboards"]
+      }
+    ]
+  },
+  "testimonials": {
+    "clients_feedback": "Clients feedback",
+    "dont_just_take_our_words": "Don't",
+    "highlight_text": "just take our words",
+    "star": "star"
+  },
+  "faq":{
+    "heading": "FAQs",
+    "subheading": "Frequently Asked Questions",
+    "description": "We help users track their vehicles easily and securely with our GPS system.",
+    "contactButton": "Still have a question?",
+    "faqs": [
+      {
+        "question": "How do I install the GPS tracker on my motorcycle?",
+        "answer": "Installation is simple and quick. Just place the tracker in a secure location on the bike and connect it to the power if needed."
+      },
+      {
+        "question": "Can I track multiple motorcycles from the same app?",
+        "answer": "Yes, our platform allows you to manage and track multiple bikes or vehicles in real time from a single, intuitive dashboard."
+      },
+      {
+        "question": "What happens if my motorcycle is stolen?",
+        "answer": "In case of suspicious movement or theft, you will receive an instant alert on your phone or by email."
+      },
+      {
+        "question": "Does the GPS work everywhere in Algeria?",
+        "answer": "Yes, our trackers use a reliable GSM/GPS network that covers the entire Algerian territory, even in remote areas."
+      },
+      {
+        "question": "Can I create geofenced areas for my vehicles?",
+        "answer": "Absolutely. You can define allowed or forbidden zones and receive notifications if a vehicle leaves the area."
+      }
+    ]
+    },
+    "navs":{
+      "overview": "Overview",
+      "features": "Features",
+      "howItWorks": "How it works",
+      "pricing": "Pricing",
+      "reviews": "Reviews",
+      "tutoriel": "Tutoriel"
+  }
+}

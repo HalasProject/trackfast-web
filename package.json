@@ -1,0 +1,32 @@
+{
+  "name": "trackfast",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix"
+  },
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "i18next": "^25.5.2",
+    "next": "14.2.5",
+    "photoswipe": "^5.4.4",
+    "rc-slider": "^11.1.5",
+    "react": "^18",
+    "react-countdown": "^2.3.6",
+    "react-dom": "^18",
+    "react-i18next": "^15.7.3",
+    "react-modal-video": "^2.0.2",
+    "react-photoswipe-gallery": "^3.0.2",
+    "react-scroll-parallax": "^3.4.5",
+    "sass": "^1.77.8",
+    "swiper": "^11.1.9"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "15.5.4"
+  }
+}

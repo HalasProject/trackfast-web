@@ -1,0 +1,73 @@
+"use client";
+import { useState } from "react";
+import { useTranslation } from "react-i18next";
+
+const languages = [
+  { label: "English", code: "en" },
+  { label: "Francais", code: "fr" },
+  { label: "العربية", code: "ar" },
+  { label: "中文", code: "zh" }
+];
+
+export default function LanguageSelect() {
+  const { i18n } = useTranslation();
+  const [langOpen, setLangOpen] = useState(false);
+  const [selectedLang, setSelectedLang] = useState(languages[0]);
+
+  const changeLanguage = (lang) => {
+    i18n.changeLanguage(lang.code);
+    setSelectedLang(lang);
+    setLangOpen(false);
+  };
+
+  return (
+    <div className="d-inline-block" style={{ position: "relative" }}>
+      <a
+        onClick={() => setLangOpen((pre) => !pre)}
+        className="hstack gap-1 text-none fw-medium"
+        role="button"
+        aria-expanded={langOpen}
+        aria-haspopup="true"
+      >
+        <i className="icon icon-1 unicon-earth-filled" />
+        <span>{selectedLang.label}</span>
+        <span
+          data-uc-drop-parent-icon=""
+          className="uc-icon uc-drop-parent-icon"
+        >
+          <svg width={12} height={12} viewBox="0 0 12 12">
+            <polyline
+              fill="none"
+              stroke="#000"
+              strokeWidth="1.1"
+              points="1 3.5 6 8.5 11 3.5"
+            />
+          </svg>
+        </span>
+      </a>
+     
+      <div
+        className={`p-2 bg-white dark:bg-gray-800 shadow-xs rounded w-150px uc-drop ${
+          langOpen ? "uc-open" : ""
+        } `}
+        style={{
+          bottom: "40px",
+          right: 0,
+          maxWidth: 1428,
+        }}
+      >
+        <ul className="nav-y gap-1 fw-medium items-end">
+          {languages.map((language, index) => (
+            <li
+              key={index}
+              onClick={() => changeLanguage(language)}
+              className="cursor-pointer"
+            >
+              <a>{language.label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+}
