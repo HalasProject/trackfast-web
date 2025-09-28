@@ -1,26 +1,20 @@
+"use client"; 
+
 import Footer5 from "@/components/footers/Footer5";
 import Header5 from "@/components/headers/Header5";
 import Blogs from "@/components/home/Blogs";
 import Brands from "@/components/home/Brands";
 import Cta from "@/components/home/Cta";
-import Elements from "@/components/home/Elements";
 import Faq from "@/components/home/Faq";
 import Features from "@/components/home/Features";
 import Hero from "@/components/home/Hero";
 import KeyFeatures from "@/components/home/KeyFeatures";
 import Pricing from "@/components/home/Pricing";
-import Team from "@/components/home/Team";
 import Testimonials from "@/components/home/Testimonials";
 import VideoComponent from "@/components/home/VideoComponent";
 import React from "react";
 import RtlConverter from "@/components/common/RtlConverter";
 
-export const metadata = {
-  title:
-    "Rtl Home Page TrackFast — Real-time GPS for Cars & Bikes.",
-  description:
-    "TrackFast keeps your car and motorcycle secure with real-time GPS tracking and instant alerts.",
-};
 export default function HomePageRtl() {
   return (
     <>
@@ -37,7 +31,6 @@ export default function HomePageRtl() {
             <Pricing />
             <Testimonials />
             <Faq />
-            {/* <Team /> */}
             <Blogs />
             <Cta />
           </div>
