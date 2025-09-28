@@ -45,7 +45,7 @@ export default function AboutPage() {
           <AboutValues />
           {/* <Feedback />
           <Timeline /> */}
-          <Team />
+          {/* <Team /> */}
           <Cta />
         </div>
         <Footer2 />

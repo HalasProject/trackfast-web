@@ -1,8 +1,10 @@
 import { brands2 } from "@/data/brands";
 import React from "react";
 import Image from "next/image";
+import { useTranslation } from "react-i18next";
 
 export default function Brands() {
+    const { t } = useTranslation();
   return (
     <div
       id="clients_brands"
@@ -15,7 +17,7 @@ export default function Brands() {
               className="h4 px-8"
               data-anime="onview: -100; translateY: [16, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 0"
             >
-              Trusted by thousands of clients more than 1,000+
+              {t("Brand.title")}
             </h4>
             <div
               className="brands row child-cols-4 lg:child-cols-3 items-center justify-center text-center g-2 sm:g-4 lg:g-6"
@@ -24,7 +26,7 @@ export default function Brands() {
               {brands2.map((brand, index) => (
                 <div key={index}>
                   <Image
-                    className="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
+                    className={`max-w-100px md:max-w-128px text-black dark:text-secondary ${brand.withoutFilter ? "" : "image-filter"}`}
                     src={brand.src}
                     width={165}
                     height={48}

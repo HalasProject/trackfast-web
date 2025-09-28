@@ -30,11 +30,10 @@ export default function HomePage6() {
           <Brands />
           <VideoComponent />
           <KeyFeatures />
-          <Elements />
           <Pricing />
           <Testimonials />
           <Faq />
-          <Team />
+          {/* <Team /> */}
           <Blogs />
           <Cta />
         </div>

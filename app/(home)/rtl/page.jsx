@@ -34,11 +34,10 @@ export default function HomePageRtl() {
             <Brands />
             <VideoComponent />
             <KeyFeatures />
-            <Elements />
             <Pricing />
             <Testimonials />
             <Faq />
-            <Team />
+            {/* <Team /> */}
             <Blogs />
             <Cta />
           </div>

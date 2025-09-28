@@ -97,7 +97,7 @@ export default function Contact2() {
                 </button>
                 <p className="text-center">
                   Or drop us a message via
-                  <a className="uc-link" href="mailto:hello@TrackFast.co">
+                  <a className="uc-link" href="mailto:contact@trackfast.io">
                     email
                   </a>
                   .

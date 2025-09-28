@@ -44,26 +44,27 @@ export default function Hero() {
                 >
                   <div
                     className="position-absolute z-2"
-                    style={{ top: "70%", right: "0%" }}
+                    style={{ top: "40%", right: "0%", rotate: "20deg" }}
                   >
                     <Image
                       className="w-48px lg:w-80px me-4"
                       alt="user-cursor"
                       data-anime="loop: true; translateX: [-80,80]; translateY: [-80,80]; easing: easeOutElastic(1, .8); direction: 'alternate'; duration: 10000; delay: 1000;"
-                      src="/assets/images/template/user-cursor-1.svg"
+                      src="/assets/images/template/icon-location-dark.svg"
+                     
                       width="96"
                       height="106"
                     />
                   </div>
                   <div
                     className="position-absolute z-2"
-                    style={{ bottom: "0%", left: "10%" }}
+                    style={{ bottom: "5%", left: "10%", rotate: "-10deg" }}
                   >
                     <Image
                       className="w-48px lg:w-80px"
                       alt="user-cursor"
                       data-anime="loop: true; translateX: [-80,80]; translateY: [-80,80]; easing: easeOutElastic(1, .8); direction: 'alternate'; duration: 5000; delay: 4000;"
-                      src="/assets/images/template/user-cursor-3.svg"
+                      src="/assets/images/template/icon-location-dark.svg"
                       width="94"
                       height="108"
                     />

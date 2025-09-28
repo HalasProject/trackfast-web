@@ -92,7 +92,7 @@ export default function Footer3() {
           </div>
           <div className="uc-footer-bottom panel vstack gap-4 pt-4 lg:pt-6 border-top dark:text-white">
             <div className="vstack sm:hstack justify-center items-center gap-1 lg:gap-2">
-              <p className="opacity-60">TrackFast © 2024, All rights reserved.</p>
+              <p className="opacity-60">TrackFast © {new Date().getFullYear()}, All rights reserved.</p>
               <ul className="nav-x gap-2 fw-medium">
                 <li>
                   <a href="#">Privacy notice</a>

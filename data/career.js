@@ -16,31 +16,21 @@ export const benefitsData = [
 export const jobListings = [
   {
     id: 1,
-    title: "Senior Frontend Engineer, Core",
+    title: "Senior Full Stack Engineer, Core",
     location: "Remotly",
   },
   {
     id: 2,
-    title: "Senior Frontend Engineer, AI",
+    title: "Director of Accounting",
     location: "Remotly",
   },
   {
     id: 3,
-    title: "Senior Python Engineer, Growth",
-    location: "In-house",
+    title: "Sales, Marketing Operations",
+    location: "Remotly",
   },
   {
     id: 4,
-    title: "Director of Accounting",
-    location: "In-house",
-  },
-  {
-    id: 5,
-    title: "Director, Marketing Operations",
-    location: "In-house (Preferably), Remotly",
-  },
-  {
-    id: 6,
     title: "Team Lead, Data Science",
     location: "Remotly",
   },

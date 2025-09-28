@@ -24,7 +24,6 @@ export default function CareerPage() {
           <CareerOpenings />
           {/* <Feedback /> */}
           <Brands />
-          <Blogs />
         </div>
         <Footer2 />
       </div>

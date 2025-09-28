@@ -65,18 +65,10 @@ export const accordionItems = [
   },
   {
     id: 9,
-    question: "Comment puis-je accéder à l’historique de localisation ?",
+    question: "Comment puis-je accéder à l’historique de localisation sur l'application ?",
     answer:
       "Tout l’historique de vos véhicules est disponible dans l’application : vous pouvez consulter les trajets, les arrêts et les heures de mouvement.",
     controls: "uc-accordion-40",
-    expanded: false,
-  },
-  {
-    id: 10,
-    question: "Le GPS fonctionne-t-il à l’international ?",
-    answer:
-      "Oui, certains modèles sont compatibles avec les réseaux internationaux et peuvent être utilisés à l’étranger avec une carte SIM adaptée.",
-    controls: "uc-accordion-42",
     expanded: false,
   },
 ];

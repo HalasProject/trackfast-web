@@ -28,10 +28,8 @@ export default function KeyFeatures() {
                 </span>
               </div>
               <p className="fs-4 lg:fs-3 xl:fs-2 max-w-lg mx-auto m-0">
-                <b>{t("key_features.easy_to_use")}</b> {t("key_features.and_powerful")},{" "}
-                <b>{t("key_features.intuitive_tools")}</b> {t("key_features.and")}{' '}
-                <b>{t("key_features.expansive_customization")}</b> {t("key_features.options")}{' '}
-                {t("key_features.transform_how_you_build")}.
+                <b>{t("key_features.real_time_control")}</b> {t("key_features.feature_text")}{' '}
+              
               </p>
             </div>
 
@@ -59,7 +57,7 @@ export default function KeyFeatures() {
                       <h3 className="title h6 md:h5 m-0">
                         {t(`key_features.features.${index}.title`)}
                       </h3>
-                      <a href="#" className="position-cover"></a>
+                      
                     </div>
                   </div>
                 ))}

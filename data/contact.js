@@ -48,7 +48,7 @@ export const horizontalPanels = [
     darkIcon: "/assets/images/template/icon-location-dark.svg",
     altText: "location-icon",
     title: "Our office",
-    description: "Don Valley, Toronto",
+    description: "Centre ville, Oran",
     linkText: "Visit us",
     linkUrl: "#",
   },

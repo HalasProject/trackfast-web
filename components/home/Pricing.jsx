@@ -86,16 +86,6 @@ export default function Pricing() {
                           </Link>
                           <p className="details">{t(`pricing.tiers.${index}.details`)}</p>
                         </header>
-                        <div className="tier-body border rounded-1-5 p-2 md:p-4">
-                          <ul className="nav-y gap-2 text-start">
-                            {tier.features.map((feature, i) => (
-                              <li key={i} className="hstack items-start gap-2">
-                                <i className="cstack w-24px h-24px bg-secondary text-primary rounded-circle unicon-checkmark fw-bold" />
-                                <span className="d-inline">{t(`pricing.tiers.${index}.features.${i}`)}</span>
-                              </li>
-                            ))}
-                          </ul>
-                        </div>
                       </div>
                     </div>
                   ))}

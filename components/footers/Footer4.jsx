@@ -92,7 +92,7 @@ export default function Footer4() {
               </div>
               <div className="uc-footer-bottom panel vstack lg:hstack gap-4 justify-between text-center pt-4 lg:pt-6 border-top dark:text-white">
                 <p className="opacity-60">
-                  TrackFast © 2024, All rights reserved.
+                  TrackFast © {new Date().getFullYear()}, All rights reserved.
                 </p>
                 <ul className="nav-x justify-center gap-2 text-gray-300">
                   {socialLinks.map((link, index) => (

@@ -22,7 +22,7 @@ export default function Notfound() {
             Go back home
           </Link>
           <p>
-            Why Not try to search again?
+            Why Not try to search again?{" "}
             <a className="uc-link" onClick={openSearchModal} data-uc-toggle>
               Search now
             </a>

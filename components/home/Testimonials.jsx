@@ -76,7 +76,7 @@ export default function Testimonials() {
                             />
                           ))}
                         </div>
-                        <p className="fs-5 lg:fs-4">“{t(slide.quote)}”</p>
+                        <p className="fs-5 lg:fs-4">{t(slide.quote)}</p>
                       </div>
                       <div className="panel mt-2 lg:mt-4">
                         <div className="panel vstack items-start gap-narrow">

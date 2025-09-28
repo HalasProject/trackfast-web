@@ -22,9 +22,9 @@
     "drag_drop_title": "Drag-and-Drop Interface",
     "drag_drop_desc": "Easily configure and manage GPS tracking dashboards and elements with our drag-and-drop interface."
   },
-    "key_features": {
+  "key_features": {
     "title": "Key Features",
-    "easy_to_use": "Easy-to-use",
+    "full_control": "Complete control over your vehicles",
     "and_powerful": "and powerful page builder, your gateway to",
     "intuitive_tools": "intuitive tools",
     "and": "and",
@@ -56,14 +56,14 @@
         "title": "Email and SMS support",
         "alt": "UI customization icon"
       },
-       {
+      {
         "title": "Driver behaviour monitoring",
         "alt": "UI customization icon"
       }
     ],
     "view_all": "View all features"
   },
-    "pricing": {
+  "pricing": {
     "title": "Pricing",
     "simple": "Simple",
     "scalable": "scalable",
@@ -75,24 +75,39 @@
     "tiers": [
       {
         "offer": "Best value",
-        "name": "Starter",
+        "name": "Moto",
         "description": "Perfect for small fleets starting with GPS tracking.",
         "details": "Includes basic tracking features",
-        "features": ["Real-time tracking", "Route history", "Alerts & notifications"]
+        "features": [
+          "Real-time tracking",
+          "Route history",
+          "Alerts & notifications"
+        ]
       },
       {
         "offer": "Most popular",
-        "name": "Pro",
+        "name": "Car",
         "description": "Advanced features for growing fleets.",
         "details": "Includes all Starter features plus geofencing",
-        "features": ["Real-time tracking", "Route history", "Alerts & notifications", "Geofencing"]
+        "features": [
+          "Real-time tracking",
+          "Route history",
+          "Alerts & notifications",
+          "Geofencing"
+        ]
       },
       {
         "offer": "Enterprise",
         "name": "Enterprise",
         "description": "Full-featured solution for large fleets.",
         "details": "Includes all Pro features plus dashboard customization",
-        "features": ["Real-time tracking", "Route history", "Alerts & notifications", "Geofencing", "Custom dashboards"]
+        "features": [
+          "Real-time tracking",
+          "Route history",
+          "Alerts & notifications",
+          "Geofencing",
+          "Custom dashboards"
+        ]
       }
     ]
   },
@@ -102,7 +117,7 @@
     "highlight_text": "just take our words",
     "star": "star"
   },
-  "faq":{
+  "faq": {
     "heading": "FAQs",
     "subheading": "Frequently Asked Questions",
     "description": "We help users track their vehicles easily and securely with our GPS system.",
@@ -129,13 +144,37 @@
         "answer": "Absolutely. You can define allowed or forbidden zones and receive notifications if a vehicle leaves the area."
       }
     ]
-    },
-    "navs":{
-      "overview": "Overview",
-      "features": "Features",
-      "howItWorks": "How it works",
-      "pricing": "Pricing",
-      "reviews": "Reviews",
-      "tutoriel": "Tutoriel"
+  },
+  "navs": {
+    "overview": "Overview",
+    "features": "Features",
+    "howItWorks": "How it works",
+    "pricing": "Pricing",
+    "reviews": "Reviews",
+    "tutoriel": "Tutoriel"
+  },
+  "Contact": {
+    "title": "Let's get in touch.",
+    "subtitle": "Feel free to reach out to us using the options below, and our dedicated team will respond to your inquiries promptly.",
+    "testimonial": "“This software simplifies the website building process, making it a breeze to manage our online presence.”",
+    "testimonialAuthor": "David Larry",
+    "testimonialRole": "Founder & CEO",
+    "formIntro": "Have a question or feedback? Fill out the form below, and we'll get back to you as soon as possible.",
+    "placeholderName": "Full name",
+    "placeholderEmail": "Your email",
+    "placeholderSubject": "Subject",
+    "placeholderMessage": "Your message..",
+    "submitButton": "Send message",
+    "altHero": "Hero image",
+    "contactAlternative": "Or drop us a message via",
+    "contactEmail": "email"
+  },
+  "Brand":{
+    "title":"Trusted by thousands of clients more than 1,000+"
+  },
+  "CareerHero": {
+    "title": "Careers.",
+    "subtitle": "We are looking for people that share our vision. Are you adaptable, driven, and friendly? Do you thrive in a fast-paced work environment where collaboration is the norm? If the answer is yes, then you’re what we are looking for.",
+    "altCareer": "Career"
   }
 }

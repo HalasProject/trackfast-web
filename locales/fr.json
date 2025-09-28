@@ -10,27 +10,22 @@
   },
   "features": {
     "main_features": "Fonctionnalités principales",
-    "no_coding": "Aucune compétence en codage requise",
+    "no_coding": "On s'occupe de tout",
     "description": "Découvrez notre système de suivi GPS avec suivi en temps réel, géorepérage, alertes et historique des trajets.",
     "real_time_tracking": "Suivi en temps réel des véhicules, motos et biens avec localisation précise.",
     "try_now": "Essayez maintenant",
-    "dashboard_title": "Composants du tableau de bord",
-    "dashboard_desc": "Libérez votre productivité avec des tableaux de bord personnalisables pour suivre et gérer votre flotte en temps réel.",
+    "dashboard_title": "Interface intuitive",
+    "dashboard_desc": "Tableau de bord convivial pour gérer vos véhicules, motos et biens en toute simplicité.",
     "learn_more": "En savoir plus",
-    "ui_title": "Composants UI",
-    "ui_desc": "Composants UI puissants et intuitifs conçus pour le suivi GPS, les alertes et les rapports.",
-    "drag_drop_title": "Interface glisser-déposer",
-    "drag_drop_desc": "Configurez et gérez facilement les tableaux de bord GPS et les éléments grâce à notre interface glisser-déposer."
+    "ui_title": "Alerts",
+    "ui_desc": "Notifications instantanées, notamment via smartphone, e-mails et d'autres méthodes. Ces fonctionnalités permettent a trackfast d'alerter les utilisateurs en cas de conduite dangereuse, de baisse du niveau de carburant, d'événements liés à la maintenance, de violations de géorepérage et de nombreux autres types d'alertes.",
+    "drag_drop_title": "Rapports et analyses",
+    "drag_drop_desc": "Rapports sur l'historique des emplacements, les trajets, des graphiques et des rapports récapitulatifs. peuvent être exportés sous forme de fichiers Excel. De plus, TrackFast permet aux utilisateurs de visualiser l'historique des emplacements sur une carte afin de mieux comprendre leurs données."
   },
   "key_features": {
     "title": "Fonctionnalités clés",
-    "easy_to_use": "Facile à utiliser",
-    "and_powerful": "et puissant constructeur de pages, votre accès à",
-    "intuitive_tools": "des outils intuitifs",
-    "and": "et",
-    "expansive_customization": "des options de personnalisation étendues",
-    "options": "qui transforment la façon dont vous",
-    "transform_how_you_build": "construisez vos tableaux de bord de suivi de flotte",
+    "real_time_control": " Accédez à un suivi en temps réel",
+    "feature_text": "en toute simplicité. des alertes intelligentes et des outils avancés pour sécuriser vos voitures et motos. des options de personnalisation étendues. Trackfast vous offre une solution complète pour gérer vos trajets, surveiller votre flotte et protéger vos biens où que vous soyez.",
     "features": [
       {
         "title": "Suivi en temps réel",
@@ -75,39 +70,23 @@
     "tiers": [
       {
         "offer": "Meilleur rapport qualité-prix",
-        "name": "Starter",
+        "name": "Moto",
         "description": "Parfait pour les petites flottes démarrant avec le suivi GPS.",
-        "details": "Inclut les fonctionnalités de suivi de base",
-        "features": [
-          "Suivi en temps réel",
-          "Historique des trajets",
-          "Alertes et notifications"
-        ]
+        "details": "Inclut les fonctionnalités de suivi de base"
       },
       {
         "offer": "Le plus populaire",
-        "name": "Pro",
+        "name": "Voiture",
         "description": "Fonctionnalités avancées pour les flottes en croissance.",
-        "details": "Inclut toutes les fonctionnalités du Starter plus le géorepérage",
-        "features": [
-          "Suivi en temps réel",
-          "Historique des trajets",
-          "Alertes et notifications",
-          "Géorepérage"
-        ]
+        "details": "Inclut toutes les fonctionnalités du Starter plus le géorepérage"
+       
       },
       {
         "offer": "Entreprise",
         "name": "Entreprise",
         "description": "Solution complète pour les grandes flottes.",
-        "details": "Inclut toutes les fonctionnalités du Pro plus la personnalisation du tableau de bord",
-        "features": [
-          "Suivi en temps réel",
-          "Historique des trajets",
-          "Alertes et notifications",
-          "Géorepérage",
-          "Tableaux de bord personnalisés"
-        ]
+        "details": "Inclut toutes les fonctionnalités du Pro plus la personnalisation du tableau de bord"
+      
       }
     ]
   },
@@ -152,5 +131,29 @@
     "pricing": "Tarification",
     "reviews": "Avis",
     "tutoriel": "Tutoriel"
+  },
+  "Contact": {
+    "title": "Restons en contact.",
+    "subtitle": "N'hésitez pas à nous contacter via les options ci-dessous, notre équipe dédiée répondra rapidement à vos demandes.",
+    "testimonial": "« Avec Trackfast, des milliers de motards gardent l’esprit tranquille, même loin de leur moto. »",
+    "testimonialAuthor": "Salah Bentayeb",
+    "testimonialRole": "Fondateur & PDG",
+    "formIntro": "Vous avez une question ou un retour ? Remplissez le formulaire ci-dessous et nous vous répondrons dès que possible.",
+    "placeholderName": "Nom complet",
+    "placeholderEmail": "Votre email",
+    "placeholderSubject": "Sujet",
+    "placeholderMessage": "Votre message..",
+    "submitButton": "Envoyer le message",
+    "altHero": "Image de couverture",
+    "contactAlternative": "Ou envoyez-nous un message via",
+    "contactEmail": "email"
+  },
+   "Brand":{
+    "title":"Peu importe la marque, notre GPS suit votre deux-roues"
+  },
+  "CareerHero": {
+    "title": "Carrières.",
+    "subtitle": "Nous recherchons des personnes qui partagent notre vision. Êtes-vous adaptable, motivé et convivial ? Aimez-vous évoluer dans un environnement de travail dynamique où la collaboration est la norme ? Si la réponse est oui, alors vous êtes exactement la personne que nous recherchons.",
+    "altCareer": "Carrière"
   }
 }

@@ -96,7 +96,7 @@ export const tiers = [
 
 export const pricingPlans = [
   {
-    title: "Starter",
+    title: "Moto",
     price: "$49",
     description: "For creating impressive tools that generate results.",
     features: [

@@ -36,14 +36,14 @@ export const slidesData = [
   {
     rating: 5,
     quote:
-      "« Grâce à ce système de suivi GPS, je peux surveiller toutes nos motos en temps réel. Cela nous fait gagner des heures chaque semaine et sécurise notre flotte. »",
+      "« Grâce à ce système de suivi GPS, je peux surveiller toutes nos motos en temps réel en plein sahara. Cela nous fait gagner des heures chaque semaine et sécurise notre flotte. »",
     name: "Yacine Bensaid",
-    title: "Responsable de flotte",
+    title: "Responsable de flotte au Sahara",
   },
   {
-    rating: 5,
+    rating: 4,
     quote:
-      "« Le tableau de bord de suivi en direct est très intuitif. Je peux visualiser rapidement les véhicules, optimiser les itinéraires et réagir aux urgences sans délai. »",
+      "« Le tableau de bord de suivi en direct est très intuitif. Je peux visualiser rapidement ma fiat, optimiser les itinéraires et réagir aux urgences sans délai. »",
     name: "Amel Kherfi",
     title: "Coordonnatrice de livraison",
   },
@@ -78,14 +78,14 @@ export const slidesData = [
   {
     rating: 5,
     quote:
-      "« Grâce aux notifications instantanées, je peux réagir immédiatement en cas de vol ou de mouvement suspect de mes véhicules. »",
+      "« Grâce aux notifications instantanées, je peux réagir immédiatement en cas de vol ou de mouvement suspect de ma moto. »",
     name: "Karim Boudiaf",
-    title: "Propriétaire d’entreprise",
+    title: "Propriétaire de moto",
   },
   {
     rating: 5,
     quote:
-      "« La plateforme de suivi est simple à utiliser et très complète. Elle m’aide à gérer efficacement toute ma flotte de motos et véhicules utilitaires. »",
+      "« La plateforme de suivi est simple à utiliser et très complète. Elle m’aide à gérer efficacement toute mes véhicules de location. »",
     name: "Lynda Fergani",
     title: "Gestionnaire de flotte",
   },
